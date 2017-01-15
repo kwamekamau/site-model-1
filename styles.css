@@ -1,0 +1,24 @@
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin: 0px;
+	background-color: cadetblue;
+}
+
+#container {
+	margin: auto;
+	max-width: 1200px;
+	background-color: oldlace;
+}
+
+#header {
+	height: 200px;
+	background-color: slategray;
+}
+
+div a:link{
+	text-decoration: none;
+}
+
+.sideMenu a:hover {
+	text-decoration: underline;
+}
